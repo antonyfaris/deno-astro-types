@@ -1,5 +1,7 @@
 # Steps to reproduce
 
+This does not happen with Deno v1.43.3 it only happens with Deno v1.43.4 and above.
+
 Install dependencies and run deno cache the project:
 
 1. `pnpm i`
